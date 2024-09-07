@@ -1,0 +1,8 @@
+body {
+  background-color: var(--tg-theme-bg-color, #fff);
+  color: var(--tg-theme-text-color);
+}
+
+.tg-footer-bg {
+  background-color: var(--tg-theme-bg-color, #fff);
+}
